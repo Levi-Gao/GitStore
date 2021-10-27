@@ -1,4 +1,4 @@
-//烦死了 
+//不烦 
 //一、递归写法
 #include<iostream>
 using namespace std;
